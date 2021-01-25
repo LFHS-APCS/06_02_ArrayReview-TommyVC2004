@@ -10,7 +10,7 @@ public class ArrayReviewTest extends junit.framework.TestCase
   
     public static void main(String args[])
     {
-        DogArrayTest p = new DogArrayTest();
+        ArrayReviewTest p = new ArrayReviewTest();
         p.testEmployeeNames();
         p.testAverage();
     }
